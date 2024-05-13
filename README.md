@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on model based security testing.
 - 💬 Ask me about source code analysis, graph algorithms, DevOps, cyber security etc.
 - 📫 How to reach me: twitter. I’m @villeez in twitter.
-- ⚡ Fun fact: I'm Finnish but not finished.
+- ⚡ Fun fact: My first programming language was a declarative programming language called Visual Prolog.
 
